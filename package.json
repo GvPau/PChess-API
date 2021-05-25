@@ -1,0 +1,19 @@
+{
+  "name": "pchess-api",
+  "version": "1.0.0",
+  "description": "REST API PChess TFG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GvPau/PChess-API.git"
+  },
+  "author": "Pau Garcia Valero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GvPau/PChess-API/issues"
+  },
+  "homepage": "https://github.com/GvPau/PChess-API#readme"
+}
